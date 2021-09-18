@@ -38,7 +38,7 @@ def StrongPassLevel(Password):
             break            
     return strength
 
-
+#Introduction
 print("\nWelcome, We will generate for you a Strong password.")
 NumOfCharsInput = input("please enter the number characters in the password (at least 4):  ")
 NumOfCharsInt = int(NumOfCharsInput)
